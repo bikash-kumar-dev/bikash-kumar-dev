@@ -39,10 +39,10 @@
 
 ### 📫 Let's Connect  
 <p align="left">
-<a href="linkedin.com/in/bikashkuamrnaik/" target="_blank">
+<a href="https://www.linkedin.com/in/bikashkuamrnaik/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-BikashKumarNaik-blue?style=flat&logo=linkedin" />
 </a>
-<a href="https://github.com/Bikash-Kumar-Naik" target="_blank">
+<a href="https://github.com/bikash-kumar-dev" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Bikash--Kumar--Naik-black?style=flat&logo=github" />
 </a>
 </p>
@@ -50,3 +50,4 @@
 ---
 
 ⭐ **"Code, Innovate, and Build the Future with AI!"**  
+
