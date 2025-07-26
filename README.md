@@ -1,53 +1,36 @@
-<h1 align="center">👋 Hello, I'm Bikash Kumar Naik</h1>
-<h3 align="center">AI & ML Enthusiast | Software Developer | Tech Explorer</h3>
+# Hi there, I'm Bikash Kumar Naik 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=4000&color=00C8FF&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+AI+%7C+Data+Science;Full-Stack+Web+Development;Python+%7C+Django+%7C+SQL+%7C+JavaScript;Always+learning+and+exploring+new+technologies!" />
-</p>
+### About Me
+- 🎓 **B.Tech (CSE, 2024)** graduate with a strong passion for **Artificial Intelligence, Machine Learning, and Software Development**.
+- 💻 Currently working as an **AI Intern at Infosys Bhubaneswar** through the **Prime Minister's Internship Scheme (PMIS)**.
+- 🌱 Always learning and exploring **Python, Data Science, and AI/ML projects**.
 
----
+### Internships
+- **AI Intern – Infosys (PMIS)** *(July 2025 – Present)*  
+  Working on **AI/ML projects** with exposure to data-driven problem solving, model development, and best practices in a corporate environment.
+  
+- **AI Intern – TechSaksham (Microsoft & SAP)** *(Jan 2025 – Feb 2025)*  
+  Developed and deployed ML models for **heart disease, diabetes, and Parkinson’s prediction**; presented AI-driven solutions at a regional showcase event.
+  
+- **Web Development Intern – Skill Development Institute, Bhubaneswar** *(2023)*  
+  Built and deployed full-stack web applications using **Django, HTML, CSS, JavaScript, and SQL**.
 
-### 🚀 About Me
-🔹 Passionate about **Machine Learning, AI, and Web Development**  
-🔹 Currently working on **Disease Outbreak Prediction using AI**  
-🔹 Experienced in **Python, Django, SQL, Pandas, NumPy, and Streamlit**  
-🔹 Certified **Software Programmer - Python (NASSCOM) & Machine Learning (Internshala)**  
-🔹 Selected for an **AI internship with TechSaksham (Microsoft & SAP)**  
+### Skills
+- **Programming:** Python, JavaScript  
+- **Web Development:** Django, HTML, CSS, SQL  
+- **AI/ML Tools:** Scikit-learn, Pandas, NumPy, Streamlit, Jupyter  
+- **Deployment:** Streamlit apps, Conda environments
 
----
+### Projects
+- 🏥 **Disease Prediction Models** – Heart Disease, Diabetes & Parkinson’s (Deployed with Streamlit)
+- 📊 **Student Performance Predictor**
+- 🏠 **California Housing Price Prediction**
 
-### 🛠️ Tech Stack
-💻 **Languages:** Python, SQL, JavaScript  
-⚙ **Frameworks & Tools:** Django, Streamlit, Flask  
-📊 **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib  
-🧠 **AI/ML:** Machine Learning, Deep Learning, Model Deployment  
-💾 **Databases:** MySQL, PostgreSQL  
-🌐 **Web Development:** HTML, CSS, JavaScript  
+### Certifications
+- **NASSCOM Certified Python Programmer**
+- **Internshala – 8-week Machine Learning Training**
 
----
-
-### 📈 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bikash-Kumar-Naik&theme=algolia" alt="streak-stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bikash-Kumar-Naik&show_icons=true&theme=algolia&count_private=true" alt="github-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash-Kumar-Naik&layout=compact&theme=algolia" alt="top-languages" />
-</p>
-
----
-
-### 📫 Let's Connect  
-<p align="left">
-<a href="https://www.linkedin.com/in/bikashkuamrnaik/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-BikashKumarNaik-blue?style=flat&logo=linkedin" />
-</a>
-<a href="https://github.com/bikash-kumar-dev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Bikash--Kumar--Naik-black?style=flat&logo=github" />
-</a>
-</p>
-
----
-
-⭐ **"Code, Innovate, and Build the Future with AI!"**  
-
+### Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)
+- [Medium](https://medium.com/@your-id) *(read my journey to Infosys AI Internship!)*
+- 📧 bikashkn@example.com
