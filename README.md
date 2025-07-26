@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm Bikash Kumar Naik 👋</h1>
 
 <p align="center">
-  <em>AI Intern @ Infosys | PM Internship Scheme | Python | Machine Learning | Web Development</em>
+  <em>AI Intern @ Infosys | Python | Machine Learning</em>
 </p>
 
 ---
