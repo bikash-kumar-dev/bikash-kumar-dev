@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="524" viewBox="0 0 1200 524" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00e5ff"/><stop offset=".55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ff2bd6"/></linearGradient>
+<linearGradient id="gv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00e5ff"/><stop offset="1" stop-color="#ff2bd6"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00e5ff" stop-opacity=".9"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#12203a" stroke-width="1"/></pattern>
+<filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style></style>
+<rect x="39" y="28" width="2" height="464" fill="url(#gv)" opacity=".6"/><circle cx="40" cy="28" r="9" fill="#070b14" stroke="#00e5ff" stroke-width="3" filter="url(#glow)"/><circle cx="40" cy="28" r="3" fill="#00e5ff"/>
+<text x="76" y="33" font-size="13" fill="#00e5ff" letter-spacing="3">JUL 2025 – JUL 2026</text>
+<text x="76" y="62" font-size="22" font-weight="800" fill="#e6f1ff">AI Intern · Infosys</text>
+<text x="76" y="86" font-size="14" fill="#8196b5">PM Internship Scheme · Bhubaneswar</text>
+<text x="76" y="116" font-size="15" fill="#e6f1ff"><tspan fill="#00e5ff">▸</tspan> Built ACE, an internal multi-agent research tool (Python, LangGraph, Gemini)</text>
+<text x="76" y="142" font-size="15" fill="#e6f1ff"><tspan fill="#00e5ff">▸</tspan> Ran agents in parallel and cut report time by 54% (48s to 22s)</text>
+<text x="76" y="168" font-size="15" fill="#e6f1ff"><tspan fill="#00e5ff">▸</tspan> Added LangSmith tracing and evals: output reliability reached 94%+</text>
+<text x="76" y="194" font-size="15" fill="#e6f1ff"><tspan fill="#00e5ff">▸</tspan> Redesigned MySQL schemas and indexes: read latency down 38%</text>
+<circle cx="40" cy="260" r="9" fill="#070b14" stroke="#ff2bd6" stroke-width="3" filter="url(#glow)"/><circle cx="40" cy="260" r="3" fill="#ff2bd6"/>
+<text x="76" y="265" font-size="13" fill="#ff2bd6" letter-spacing="3">JAN – FEB 2025</text>
+<text x="76" y="294" font-size="22" font-weight="800" fill="#e6f1ff">AI &amp; ML Intern · TechSaksham</text>
+<text x="76" y="318" font-size="14" fill="#8196b5">Microsoft &amp; SAP initiative · Remote</text>
+<text x="76" y="348" font-size="15" fill="#e6f1ff"><tspan fill="#ff2bd6">▸</tspan> Built a heart disease, diabetes, and Parkinson&#x27;s predictor: 94.2% accuracy</text>
+<text x="76" y="374" font-size="15" fill="#e6f1ff"><tspan fill="#ff2bd6">▸</tspan> Trained on 5,000+ records; ranked top 4% of 500+ participants</text>
+<circle cx="40" cy="440" r="9" fill="#070b14" stroke="#8b5cf6" stroke-width="3" filter="url(#glow)"/><circle cx="40" cy="440" r="3" fill="#8b5cf6"/>
+<text x="76" y="445" font-size="13" fill="#8b5cf6" letter-spacing="3">2020 – 2024</text>
+<text x="76" y="474" font-size="22" font-weight="800" fill="#e6f1ff">B.Tech, Computer Science &amp; Engineering</text>
+<text x="76" y="498" font-size="14" fill="#8196b5">Synergy Institute of Engineering &amp; Technology · CGPA 7.69</text>
+
+</svg>
