@@ -1,78 +1,53 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%7C%20Machine%20Learning%20%7C%20Web%20Development-blueviolet?style=for-the-badge" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi there, I'm Bikash Kumar Naik 👋</h1>
+<img src="assets/header.svg" width="100%" alt="Bikash Kumar Naik - AI Engineer and Software Engineer" />
 
-<p align="center">
-  <em>AI Intern @ Infosys | Python | Machine Learning</em>
-</p>
+<br/>
 
----
+<a href="https://www.linkedin.com/in/bikashkumarnaik"><img src="https://img.shields.io/badge/LinkedIn-connect-00e5ff?style=for-the-badge&logo=linkedin&logoColor=070b14&labelColor=0c1322" alt="LinkedIn" /></a>
+<a href="mailto:bikashkumar01122003@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hello-ff2bd6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c1322" alt="Email" /></a>
+<a href="https://huggingface.co/spaces/Bikashkumarnaik/autonomous-cognitive-engine"><img src="https://img.shields.io/badge/Hugging%20Face-ACE%20demo-8b5cf6?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0c1322" alt="Hugging Face" /></a>
 
-## 🚀 About Me
-- 🎓 **B.Tech (CSE, 2024)** graduate passionate about **Artificial Intelligence, Machine Learning, and Software Development**  
-- 💻 Currently working as an **AI Intern at Infosys Bhubaneswar** through the **Prime Minister's Internship Scheme (PMIS)**  
-- 🌱 Focused on building intelligent applications that solve **real-world problems using AI/ML**
+</div>
 
----
+<img src="assets/sec-01-about.svg" width="100%" alt="About" />
 
-## 💼 Internships
-### **AI Intern – Infosys (PMIS)** *(July 2025 – Present)*
-- Working on **AI/ML projects** involving data-driven problem solving and model development
-- Learning corporate best practices, collaboration, and deployment workflows
+I'm a B.Tech (CSE, 2024) graduate from Bhubaneswar who builds AI systems that are **fast, measurable, and trustworthy**.
+At **Infosys** (PM Internship Scheme) I built a multi-agent research platform and cut its report time by **54%**.
+I like taking messy, slow, or unreliable AI output and making it something a team can depend on.
 
-### **AI Intern – TechSaksham (Microsoft & SAP)** *(Jan 2025 – Feb 2025)*
-- Developed and deployed **ML models for Heart Disease, Diabetes & Parkinson’s prediction**
-- Presented AI solutions addressing healthcare challenges at a regional showcase
+```text
+status    : open to AI Engineer / Software Engineer roles
+focus     : multi-agent systems, LLM evaluation, Python backends
+based in  : Bhubaneswar, Odisha, India
+```
 
-### **Web Development Intern – Skill Development Institute, Bhubaneswar** *(2023)*
-- Built full-stack applications using **Django, HTML, CSS, JavaScript, and SQL**
+<img src="assets/sec-02-impact.svg" width="100%" alt="Impact" />
 
----
+<img src="assets/metrics.svg" width="100%" alt="54% faster report generation, 94%+ output reliability, 38% lower database read latency, 2.4x better citation grounding" />
 
-## 🛠️ Skills & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<img src="assets/sec-03-stack.svg" width="100%" alt="Tech stack" />
 
----
+<img src="assets/skills.svg" width="100%" alt="Skills: LangGraph, LangSmith, MCP, RAG, Google ADK, Gemini API, Scikit-learn, XGBoost, Pandas, Python, Java, SQL, JavaScript, FastAPI, Django, MySQL, SQLite, Docker, Git" />
 
-## 📂 Featured Projects
-- 🏥 **Disease Prediction Models** – ML models for Heart Disease, Diabetes & Parkinson’s *(Deployed with Streamlit)*
-- 📊 **Student Performance Predictor**
-- 🏠 **California Housing Price Prediction**
+<img src="assets/sec-04-projects.svg" width="100%" alt="Projects" />
 
----
+<a href="https://huggingface.co/spaces/Bikashkumarnaik/autonomous-cognitive-engine"><img src="assets/project-ace.svg" width="100%" alt="ACE, Autonomous Cognitive Engine: open-source multi-agent framework, 2.4x better citation grounding. Click for the live demo." /></a>
 
-## 🏅 Certifications
-- **NASSCOM Certified Python Programmer**
-- **Internshala – 8-week Machine Learning Training**
+<a href="https://oasis-secure-reporting.streamlit.app/"><img src="assets/project-secure.svg" width="100%" alt="Secure Citizen-Science Platform: MCP server with RBAC and a privacy agent, 99.2% PII precision. Click for the live demo." /></a>
 
----
+<a href="https://github.com/bikash-kumar-dev/Datasage"><img src="assets/project-datasage.svg" width="100%" alt="DataSage, AutoML tool: benchmarks 5+ algorithms, about 60% less manual experiment time. Click for the source code." /></a>
 
-## 🌐 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/bikashkuamrnaik/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@bikashkumar01122003">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="bikashkumar01122003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<img src="assets/sec-05-experience.svg" width="100%" alt="Experience" />
 
----
+<img src="assets/experience.svg" width="100%" alt="AI Intern at Infosys (Jul 2025 to Jul 2026), AI and ML Intern at TechSaksham (Jan to Feb 2025), B.Tech in CSE (2020 to 2024)" />
 
-<p align="center">
-⭐ <em>“Technology is best when it brings people together to solve real problems.”</em> ⭐
-</p>
+<img src="assets/sec-06-certs.svg" width="100%" alt="Certifications" />
+
+| | |
+|---|---|
+| **AI Agents Intensive Course** · Google & Kaggle | **Building and Deploying Intelligent Agents with Google ADK** · Infosys |
+| **Demystifying Agentic AI** · Infosys | **Deep Learning for Developers** · Infosys |
+| **Machine Learning Training** · Internshala | **Software Programmer, Python (Gold)** · NASSCOM FutureSkills Prime |
+
+<img src="assets/footer.svg" width="100%" alt="Let's build something useful" />
